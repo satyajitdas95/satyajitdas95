@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dassatya1995
+- 👋 Hi, I’m Satyajit Das
 - 👀 I’m Android Enthusiast.
 - 🌱 I’m currently working with Kotlin.
 - 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose , Jetpacck Components.
