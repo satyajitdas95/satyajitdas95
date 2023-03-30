@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dassatya1995
-- 👀 I’m interested in Android.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on Any Android project made with Kotlin.
+- 👀 I’m Android Enthusiast.
+- 🌱 I’m currently working with Kotlin.
+- 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose , Jetpacck Components.
 - 📫 Reach me on dassatya1995@gmail.com
 
 <!---
