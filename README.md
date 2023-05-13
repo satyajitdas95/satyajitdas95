@@ -1,8 +1,25 @@
 - 👋 Hi, I’m Satyajit Das
 - 👀 I’m Android Enthusiast.
-- 🌱 I’m currently working with Kotlin.
+- 🌱 I’m currently working with Kotlin, Compose, Coroutine And Jetpack Stuff.
+- 👀 Trying Flutter and React Native.
+
+- 🗼 Living in **Bengaluru, India**
+- 👨‍💻 Currently Working at [Mighty](https://getmighty.in)
+- 👍 Fitness and Gaming 🎮
+
+- 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.tech)
+
 - 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose , Jetpacck Components.
 - 📫 Reach me on dassatya1995@gmail.com
+
+<br/>
+
+
+### 📈 GitHub Stats
+
+[![Satyajit's github stats](https://github-readme-stats.vercel.app/api?username=satyajitdas95&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitdas95&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 dassatya1995/dassatya1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
