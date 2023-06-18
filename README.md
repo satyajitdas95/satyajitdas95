@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Satyajit Das
 - 👀 I’m Android Enthusiast.
 - 🌱 I’m currently working with Kotlin, Compose, Coroutine And Jetpack Stuff.
-- 👀 Trying Flutter and React Native.
 
 - 🗼 Living in **Bengaluru, India**
 - 👨‍💻 Currently Working at [Mighty](https://getmighty.in)
