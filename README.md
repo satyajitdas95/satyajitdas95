@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with Kotlin, Compose, Coroutine And Jetpack Stuff.
 
 - 🗼 Living in **Bengaluru, India**
-- 👨‍💻 Currently Working at [Mighty](https://getmighty.in)
+- 👨‍💻 Currently Working at [LoveLocal](https://www.lovelocal.in/)
 - 👍 Fitness and Gaming 🎮
 
 - 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.tech)
