@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Satyajit Das
-- 👀 I’m Android Enthusiast.
+- 👀 I’m an Android Enthusiast.
 - 🌱 I’m currently working with Kotlin, Compose, Coroutine And Jetpack Stuff.
 
 - 🗼 Living in **Bengaluru, India**
-- 👨‍💻 Currently Working at [LoveLocal](https://www.lovelocal.in/)
+- 👨‍💻 Currently Working at [Unacademy](https://unacademy.com/goal/upsc-civil-services-examination-ias-preparation/KSCGY)
 - 👍 Fitness and Gaming 🎮
 
 - 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.tech)
 
-- 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose , Jetpacck Components.
+- 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose, Jetpacck Components.
 - 📫 Reach me on dassatya1995@gmail.com
 
 <br/>
