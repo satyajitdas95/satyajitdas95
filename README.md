@@ -6,7 +6,7 @@
 - 👨‍💻 Currently Working at [ZED-Mobility](https://www.gozed.ae/)
 - 👍 Fitness and Gaming 🎮
 
-- 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.tech)
+- 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.hashnode.dev/)
 
 - 💞️ I’m looking to collaborate on Any Android project made with Kotlin, Compose, Jetpacck Components.
 - 📫 Reach me on dassatya1995@gmail.com
