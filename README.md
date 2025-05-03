@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with Kotlin, Compose, Coroutine And Jetpack Stuff.
 
 - 🗼 Living in **Bengaluru, India**
-- 👨‍💻 Currently Working at [Unacademy Language Learning App](https://unacademylanguage.com)
+- 👨‍💻 Currently Working at [ZED-Mobility](https://www.gozed.ae/)
 - 👍 Fitness and Gaming 🎮
 
 - 👨‍💻 Chekout my Blogs [Here](https://satyajitdas.tech)
